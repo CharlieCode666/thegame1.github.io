@@ -1,0 +1,51 @@
+body{
+  background:#151320;
+}
+
+#canvas{
+  border: 1px solid #151320;
+  width:100%;
+  background:black;
+  
+  border-top: 3px solid #9933ff;
+  border-right: 2px solid #9933ff;
+  border-bottom: 3px solid #9933ff;
+  border-left: 2px solid #9933ff;
+}
+
+.top{
+  width:100px;
+  height:50px;
+  position:relative; top:8px;
+  position:relative; left:150px;
+  
+  background-color:#99ccff;
+}
+
+.bottom{
+  width:100px;
+  height:50px;
+  position:relative; top:90px;
+  position:relative; left:50px;
+  
+  background-color:#9999ff;
+}
+
+.left{
+  width:100px;
+  height:50px;
+  position:relative; top:60px;
+  position:relative; left:-180px;
+  
+  background-color:#6666ff;
+}
+
+.right{
+  width:100px;
+  height:50px;
+  position:relative; top:8px;
+  position:relative; left:280px;
+  
+  background-color:#0099ff;
+}
+
